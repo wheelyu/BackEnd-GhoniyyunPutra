@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "if0_37874893",
-    "password": "3blW2nxq1DZ3p",
-    "database": "if0_37874893_ghoniyyunputra",
-    "host": "127.0.0.1",
+    "username": "ghoniyyunputra_guiderace",
+    "password": null,
+    "database": "ghoniyyunputra_guiderace",
+    "host": "yvgup.h.filess.io",
     "dialect": "mysql"
   },
   "test": {
-    "username": "if0_37874893",
-    "password": "3blW2nxq1DZ3p",
-    "database": "if0_37874893_ghoniyyunputra",
-    "host": "127.0.0.1",
+    "username": "ghoniyyunputra_guiderace",
+    "password": "5a6a9f6736a7cd78f4afb8b04100e1a96c13bae6",
+    "database": "ghoniyyunputra_guiderace",
+    "host": "yvgup.h.filess.io",
     "dialect": "mysql"
   },
   "production": {
-    "username": "if0_37874893",
-    "password": "3blW2nxq1DZ3p",
-    "database": "if0_37874893_ghoniyyunputra",
-    "host": "127.0.0.1",
+    "username": "ghoniyyunputra_guiderace",
+    "password": "5a6a9f6736a7cd78f4afb8b04100e1a96c13bae6",
+    "database": "ghoniyyunputra_guiderace",
+    "host": "yvgup.h.filess.io",
     "dialect": "mysql"
   }
 }
